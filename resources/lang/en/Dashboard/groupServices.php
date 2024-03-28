@@ -1,0 +1,23 @@
+<?php
+return [
+    "services" => "Services",
+    "group_name" => "Group name",
+    "edit" => "Edit",
+    "notes" => "Notes",
+    "add" => "Add",
+    "save" => "Save",
+    "saved" => "The data has been saved successfully.",
+    "edited" => "The data has been updated successfully.",
+    "add_a_subservice" => "Add a subservice",
+    "add_a_group_of_services" => "Add a group of services",
+    "quantity" => "Quantity",
+    "service_name" => "Service name",
+    "processes" => "Processes",
+    "delete" => "Delete",
+    "total" => "Total",
+    "discount" => "Discount",
+    "tax_rate" => "Tax rate",
+    "total_with_tax" => "Total with tax",
+    "group_services" => "Group Services",
+    "errorAdd" => 'You must save this service before creating a new service.',
+];

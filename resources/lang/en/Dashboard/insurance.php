@@ -1,0 +1,20 @@
+<?php
+return [
+    "Insurance" => 'Insurance',
+    "Add_Insurance" => 'Add Insurance ',
+    "Company_name" => 'Company name',
+    "Company_code" => 'Company code',
+    "contact_number" => 'contact number',
+    "discount_percentage" => 'discount percentage',
+    "Insurance_bearing_percentage" => 'Insurance bearing percentage',
+    "notes" => 'notes',
+    "status" => 'status',
+    "Processes" => 'Processes',
+    "Determine_percentage" => 'Determine percentage',
+    "save" => 'Save',
+    "edit_Insurance" => 'Edit Insurance',
+    "close" => 'close',
+    "Deleted" => 'Are Sure Of The Deleting Process ?',
+    "Title_deleted" => 'Delete insurance',
+    "delete" => 'Delete insurance',
+];

@@ -1,0 +1,21 @@
+<?php
+return [
+    "Ambulance" => "الاسعاف",
+    "Ambulance_cars" => "سيارات الاسعاف",
+    "not_activated" => "غير مفعلة",
+    "activated" => "مفعلة",
+    "rent" => "ايجار",
+    "owned" => "مملكوكة",
+    "processes" => "العمليات",
+    "notes" => "ملاحظات",
+    "status" => "حالة السيارة",
+    "phone" => "رقم الهاتف",
+    "license_number" => "رقم الرخصة",
+    "driver_name" => "اسم السائق",
+    "type" => "نوع السيارة",
+    "year" => "سنة الصنع",
+    "car_model" => "موديل السيارة",
+    "car_number" => "رقم السيارة",
+    "add_a_new_car" => "اضافة سيارة جديدة",
+    "edit_car" => "تعديل السيارة",
+];

@@ -1,0 +1,22 @@
+<?php
+return [
+    "Ambulance" => "Ambulance",
+    "Ambulance_cars" => "Ambulance cars ",
+    "not_activated" => "Not activated",
+    "activated" => "activated",
+    "rent" => "rent",
+    "owned" => "owned",
+    "processes" => "processes",
+    "notes" => "notes",
+    "status" => "status",
+    "phone" => "phone",
+    "license_number" => "License number",
+    "driver_name" => "driver's name",
+    "type" => "type",
+    "year" => "year",
+    "car_model" => "car model",
+    "car_number" => "car number",
+    "add_a_new_car" => "add a new car",
+    "edit_car" => "Edit car",
+    "delete_car" => "Delete Car",
+];
