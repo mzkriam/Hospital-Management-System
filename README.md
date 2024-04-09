@@ -1,16 +1,19 @@
-This system aims to facilitate and improve hospital and health facility management processes. Includes many useful features for different users:
+PHP, Laravel, mySQL <br/>
+MVC, livewire, real time chat and real time notifications, pusher, Multi languages, mcamara/laravel-localization, breeze ....<br/>
 
-Admin: Manage all departments and users. - Access to the dashboard and hospital monitoring. - Access settings and create bulletin boards.
+This system aims to facilitate and improve hospital and health facility management processes. Includes many useful features for different users:<br/>
 
-Doctors: They can create and manage their own clinic appointments. - Admitting patients and managing bed appointments. - Issuing medical prescriptions to patients. - Access their reports and payroll.
+Admin: Manage all departments and users. - Access to the dashboard and hospital monitoring. - Access settings and create bulletin boards.<br/>
 
-Patients: Book new appointments. - View their appointments and prescriptions. - Follow up on the details of the treating physician. - Access details of previous transactions and invoices.
+Doctors: They can create and manage their own clinic appointments. - Admitting patients and managing bed appointments. - Issuing medical prescriptions to patients. - Access their reports and payroll.<br/>
 
-Reception staff: Managing patient appointments. - Postal service management.
+Patients: Book new appointments. - View their appointments and prescriptions. - Follow up on the details of the treating physician. - Access details of previous transactions and invoices.<br/>
 
-Pharmacists: Medication management and billing.
+Reception staff: Managing patient appointments. - Postal service management.<br/>
 
-Accountants: Billing and payments management.
+Pharmacists: Medication management and billing.<br/>
 
-MVC, livewire, real time chat and real time notifications, pusher, Multi languages, mcamara/laravel-localization, breeze ....
-Tools - PHP, Laravel, mySQL
+Accountants: Billing and payments management.<br/>
+
+
+
