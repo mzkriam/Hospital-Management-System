@@ -1,4 +1,4 @@
-This system aims to facilitate and improve hospital and health facility management processes. Includes many useful features for different users:<br/>
+A robust hospital management system built with PHP, Laravel, and MySQL, utilizing MVC architecture for efficient organization. Features real-time chat and notifications powered by Livewire and Pusher, multi-language support with mcamara/laravel-localization, and user-friendly authentication using Laravel Breeze. Designed to streamline operations across various hospital departments.<br/>
 
 <strong>Admin:</strong><br/> 
 Manage all departments and users. <br/> Access to the dashboard and hospital monitoring. <br/> Access settings and create bulletin boards.<br/>
