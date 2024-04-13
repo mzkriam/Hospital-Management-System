@@ -12,6 +12,7 @@ Manage all departments and users. <br/> Access to the dashboard and hospital mon
 <strong>Pharmacists:</strong><br/>  Medication management and billing.<br/>
 
 <strong>Accountants:</strong><br/>  Billing and payments management.<br/>
+
 <strong>Technologies:</strong><br/>  PHP, Laravel, mySQL <br/>
 MVC, livewire, real time chat and real time notifications, pusher, Multi languages, mcamara/laravel-localization, breeze ....<br/>
 
