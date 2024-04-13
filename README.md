@@ -13,6 +13,11 @@ Manage all departments and users. <br/> Access to the dashboard and hospital mon
 
 <strong>Accountants:</strong><br/>  Billing and payments management.<br/>
 
+<strong>Ray Employee</strong><br/>
+
+<strong>Laboratory Employee</strong><br/>
+
+
 <strong>Technologies:</strong><br/>  PHP, Laravel, mySQL <br/>
 MVC, livewire, real time chat and real time notifications, pusher, Multi languages, mcamara/laravel-localization, breeze ....<br/>
 
