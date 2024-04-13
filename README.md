@@ -44,7 +44,6 @@ A robust **hospital management system** built with **PHP, Laravel, and MySQL**, 
 - **MVC, Livewire, Real-time Chat and Notifications, Pusher**
 - **Multi-language Support, mcamara/laravel-localization, Laravel Breeze**
 
-- 
 ![Hospital Management System Website](https://github.com/mzkriam/Hospital-Management-System/assets/73972415/9115fe08-d322-4430-b1ee-c19a461584b7)
 
 
