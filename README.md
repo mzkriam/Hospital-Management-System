@@ -14,7 +14,7 @@ A robust **hospital management system** built with **PHP, Laravel, and MySQL**, 
 - Create and manage clinic appointments.
 - Admit patients and manage bed appointments.
 - Issue medical prescriptions.
-- Access reports and payroll.
+- Access reports.
 
 ### Patients:
 - Book new appointments.
