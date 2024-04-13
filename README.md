@@ -6,15 +6,15 @@ This system aims to facilitate and improve hospital and health facility manageme
 <strong>Admin:</strong><br/> 
 Manage all departments and users. <br/> Access to the dashboard and hospital monitoring. <br/> Access settings and create bulletin boards.<br/>
 
-Doctors: They can create and manage their own clinic appointments. - Admitting patients and managing bed appointments. - Issuing medical prescriptions to patients. - Access their reports and payroll.<br/>
+<strong>Doctors:</strong><br/>  They can create and manage their own clinic appointments.<br/>Admitting patients and managing bed appointments.<br/>Issuing medical prescriptions to patients.<br/>Access their reports and payroll.<br/>
 
-Patients: Book new appointments. - View their appointments and prescriptions. - Follow up on the details of the treating physician. - Access details of previous transactions and invoices.<br/>
+<strong>Patients:</strong><br/>  Book new appointments.<br/> View their appointments and prescriptions.<br/>Follow up on the details of the treating physician.<br/>Access details of previous transactions and invoices.<br/>
 
-Reception staff: Managing patient appointments. - Postal service management.<br/>
+<strong>Reception employee:</strong><br/>  Managing patient appointments.<br/> Postal service management.<br/>
 
-Pharmacists: Medication management and billing.<br/>
+<strong>Pharmacists:</strong><br/>  Medication management and billing.<br/>
 
-Accountants: Billing and payments management.<br/>
+<strong>Accountants:</strong><br/>  Billing and payments management.<br/>
 
 
 
