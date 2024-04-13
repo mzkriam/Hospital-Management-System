@@ -25,6 +25,7 @@ A robust **hospital management system** built with **PHP, Laravel, and MySQL**, 
 ### Reception Staff:
 - Manage patient appointments.
 - Postal service management.
+![Hospital Management System Accounting Employee Patient Medical Record All Invoices](https://github.com/mzkriam/Hospital-Management-System/assets/73972415/7ce0b66e-11fe-48a0-ba86-3bfd478032f4)
 
 ### Pharmacists:
 - Medication management and billing.
