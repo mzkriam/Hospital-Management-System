@@ -13,9 +13,9 @@ Manage all departments and users. <br/> Access to the dashboard and hospital mon
 
 <strong>Accountants:</strong><br/>  Billing and payments management.<br/>
 
-<strong>Ray Employee</strong><br/>
+<strong>Ray Employes</strong><br/>
 
-<strong>Laboratory Employee</strong><br/>
+<strong>Laboratory Employes</strong><br/>
 
 
 <strong>Technologies:</strong><br/>  PHP, Laravel, mySQL <br/>
