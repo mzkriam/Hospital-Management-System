@@ -1,4 +1,4 @@
-# Hospital Management System
+# Hospital Management System (HMS)
 
 ## Overview
 A robust **hospital management system** built with **PHP, Laravel, and MySQL**, utilizing **MVC architecture** for efficient organization. It features real-time chat and notifications powered by **Livewire and Pusher**, multi-language support with **mcamara/laravel-localization**, and user-friendly authentication using **Laravel Breeze**. Designed to streamline operations across various hospital departments.
